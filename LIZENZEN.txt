@@ -1,0 +1,9 @@
+Enthaltene Bestandteile und ihre Lizenzen
+
+OpenDyslexic (Schrift)            SIL Open Font License 1.1 – https://opendyslexic.org
+Tesseract.js / tesseract.js-core  Apache License 2.0 – https://github.com/naptha/tesseract.js
+Tesseract-Sprachdaten (deu, eng)  Apache License 2.0 – https://github.com/tesseract-ocr/tessdata
+PDF.js                            Apache License 2.0 – https://github.com/mozilla/pdf.js
+mammoth.js                        BSD 2-Clause – https://github.com/mwilliamson/mammoth.js
+hyphen (Silbentrennung)           ISC License – https://github.com/ytiurin/hyphen
+                                  (Trennmuster aus TeX/CTAN, jeweilige Lizenzen der Muster)
